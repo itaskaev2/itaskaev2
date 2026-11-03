@@ -15,9 +15,14 @@ CLOUD           AWS | Amazon EKS
 CONTAINERS      Kubernetes | Docker | Helm
 IaC             Terraform | CloudFormation
 GITOPS          Flux CD
-CI/CD           GitHub Actions
+CI/CD           GitHub Actions | Jenkins | GitLab CI
 SCRIPTING       Bash | Python
 OS              Linux
+
+$ cat /etc/certifications
+CKA             Certified Kubernetes Administrator
+CCNA            Cisco Certified Network Associate
+AWS             AWS Solutions Architect
 
 $ cat ~/interests.txt
 Cloud Architecture
